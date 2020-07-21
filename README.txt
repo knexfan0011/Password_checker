@@ -1,3 +1,13 @@
+Introduction:
+
+Do you not trust the password lookup at https://haveibeenpwned.com/Passwords for some reason?
+Well good news, now you can trust my coding abilities instead!
+And because I am way too lazy to set up a server or whatever, I don't even know how I would collect passwords that someone enters into this software, it's basically magic!
+And if you don't trust me for some (probably good) reason, just read the source code to convince yourself of the fact that there is no networking code in there whatsoever.
+
+
+Actual Readme:
+
 Download the latest list of SHA-1 hashed Passwords (ordered by hash) from
 https://haveibeenpwned.com/Passwords
 Extract it to the directory the .py files are in and rename it to "pw_hashes.txt".
